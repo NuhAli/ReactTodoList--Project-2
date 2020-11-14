@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(90deg,
+      rgb(21, 17, 236) 0%,
+      rgb(81, 78, 243) 100%);
+}
+
+
+.form-area {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 700px;
+  min-height: 600px;
+  background: #161a2b;
+  text-align: center;
+  margin: 128px auto;
+  border-radius: 10px;
+  padding-bottom: 32px;
+  z-index: 1;
+}
+
+
+.form-area form {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.form-area .input-area {
+  display: flex;
+  justify-content: center;
+  padding: 1.5rem;
+  width: auto;
+}
+
+.form-area input[type="text"] {
+  padding: 14px 32px 10px 16px;
+  border-radius: 4px 0 0 4px;
+  border: 2px solid rgb(39, 51, 228);
+  outline: none;
+  width: 65%;
+  background-color: transparent;
+  color: #fff;
+}
+
+.form-area input[type="text"]:focus {
+  outline: none;
+  font-size: 1.4rem;
+  background-color: transparent;
+}
+
+.form-area input[type="text"]::placeholder {
+  color: #e2e2e2;
+  font-size: 1.4rem;
+}
+
+.form-area button {
+  width: 25%;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+  outline: none;
+  background: linear-gradient(90deg,
+      rgb(39, 51, 228) 0%,
+      rgb(31, 78, 122) 100%);
+  color: #fff;
+  text-transform: capitalize;
+}
+
+@media screen and (max-width: 770px) {
+  .form-area {
+    height: auto;
+    max-width: 90%;
+    text-align: center;
+  }
+
+  .form-area .input-area {
+    min-width: 80%;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 500px)  {
+  .input-area {
+    padding: 8px;
+  }
+  .form-area input[type="text"] {
+    width: 75%;
+  }
+
+  .form-area input[type="text"]::placeholder {
+    font-size: 1rem;
+  }
+
+  .form-area button {
+    width: 25%;
+  }
+}
