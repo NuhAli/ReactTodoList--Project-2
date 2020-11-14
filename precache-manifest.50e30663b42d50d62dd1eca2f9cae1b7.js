@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4bd5a8ca0c03e6dd5d6c83e9b2708d6",
+    "revision": "167afba37da85663c3143d0135bca80a",
     "url": "/NightScenz--Project-5/index.html"
   },
   {
-    "revision": "0cc10e0d9bda9b698d40",
-    "url": "/NightScenz--Project-5/static/css/main.76fcd772.chunk.css"
+    "revision": "b48f90f2745f6e1a0215",
+    "url": "/NightScenz--Project-5/static/css/main.52af341f.chunk.css"
   },
   {
     "revision": "51d31fb6d9b40f70e563",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NightScenz--Project-5/static/js/2.b5f47364.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0cc10e0d9bda9b698d40",
+    "revision": "b48f90f2745f6e1a0215",
     "url": "/NightScenz--Project-5/static/js/main.412f78e6.chunk.js"
   },
   {
