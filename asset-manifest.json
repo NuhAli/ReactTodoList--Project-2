@@ -1,31 +1,22 @@
 {
   "files": {
-    "main.css": "/NightScenz--Project-5/static/css/main.52af341f.chunk.css",
-    "main.js": "/NightScenz--Project-5/static/js/main.412f78e6.chunk.js",
-    "main.js.map": "/NightScenz--Project-5/static/js/main.412f78e6.chunk.js.map",
-    "runtime-main.js": "/NightScenz--Project-5/static/js/runtime-main.33ce1146.js",
-    "runtime-main.js.map": "/NightScenz--Project-5/static/js/runtime-main.33ce1146.js.map",
-    "static/js/2.b5f47364.chunk.js": "/NightScenz--Project-5/static/js/2.b5f47364.chunk.js",
-    "static/js/2.b5f47364.chunk.js.map": "/NightScenz--Project-5/static/js/2.b5f47364.chunk.js.map",
-    "index.html": "/NightScenz--Project-5/index.html",
-    "precache-manifest.50e30663b42d50d62dd1eca2f9cae1b7.js": "/NightScenz--Project-5/precache-manifest.50e30663b42d50d62dd1eca2f9cae1b7.js",
-    "service-worker.js": "/NightScenz--Project-5/service-worker.js",
-    "static/css/main.52af341f.chunk.css.map": "/NightScenz--Project-5/static/css/main.52af341f.chunk.css.map",
-    "static/js/2.b5f47364.chunk.js.LICENSE.txt": "/NightScenz--Project-5/static/js/2.b5f47364.chunk.js.LICENSE.txt",
-    "static/media/img-1.jpg": "/NightScenz--Project-5/static/media/img-1.45febb11.jpg",
-    "static/media/img-2.jpg": "/NightScenz--Project-5/static/media/img-2.9cc98e36.jpg",
-    "static/media/img-3.jpg": "/NightScenz--Project-5/static/media/img-3.54b89ee1.jpg",
-    "static/media/img-4.jpg": "/NightScenz--Project-5/static/media/img-4.02453f10.jpg",
-    "static/media/img-5.jpg": "/NightScenz--Project-5/static/media/img-5.b076545c.jpg",
-    "static/media/img-6.jpg": "/NightScenz--Project-5/static/media/img-6.2943ea15.jpg",
-    "static/media/img-7.jpg": "/NightScenz--Project-5/static/media/img-7.fab4c69a.jpg",
-    "static/media/jeff.jpg": "/NightScenz--Project-5/static/media/jeff.d6922eb5.jpg",
-    "static/media/video-1.mp4": "/NightScenz--Project-5/static/media/video-1.229f5279.mp4"
+    "main.css": "/ReactTodoList--Project-2/static/css/main.e8e69b86.chunk.css",
+    "main.js": "/ReactTodoList--Project-2/static/js/main.8ec1660d.chunk.js",
+    "main.js.map": "/ReactTodoList--Project-2/static/js/main.8ec1660d.chunk.js.map",
+    "runtime-main.js": "/ReactTodoList--Project-2/static/js/runtime-main.e592e50f.js",
+    "runtime-main.js.map": "/ReactTodoList--Project-2/static/js/runtime-main.e592e50f.js.map",
+    "static/js/2.cf677d38.chunk.js": "/ReactTodoList--Project-2/static/js/2.cf677d38.chunk.js",
+    "static/js/2.cf677d38.chunk.js.map": "/ReactTodoList--Project-2/static/js/2.cf677d38.chunk.js.map",
+    "index.html": "/ReactTodoList--Project-2/index.html",
+    "precache-manifest.52cb3851627cf38d25528d20cabda798.js": "/ReactTodoList--Project-2/precache-manifest.52cb3851627cf38d25528d20cabda798.js",
+    "service-worker.js": "/ReactTodoList--Project-2/service-worker.js",
+    "static/css/main.e8e69b86.chunk.css.map": "/ReactTodoList--Project-2/static/css/main.e8e69b86.chunk.css.map",
+    "static/js/2.cf677d38.chunk.js.LICENSE.txt": "/ReactTodoList--Project-2/static/js/2.cf677d38.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.33ce1146.js",
-    "static/js/2.b5f47364.chunk.js",
-    "static/css/main.52af341f.chunk.css",
-    "static/js/main.412f78e6.chunk.js"
+    "static/js/runtime-main.e592e50f.js",
+    "static/js/2.cf677d38.chunk.js",
+    "static/css/main.e8e69b86.chunk.css",
+    "static/js/main.8ec1660d.chunk.js"
   ]
 }
